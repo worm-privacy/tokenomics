@@ -25,7 +25,7 @@ Structure of the premine:
 | **Private investors**             | 15%        | 6 months    | 18 months |
 | **Team / Founders**               | 20%        | 12 months   | 36 months |
 | **Advisors**                      | 5%         | 3 months    | 12 months |
-| **Community / Ecosystem Rewards** | 25%        | 0 months    | 24 months |
+| **Community / Ecosystem Rewards** | 25%        | 0 months    | 6 months |
 | **Foundation / Treasury**         | 20%        | 6 months    | 36 months |
 | **Public Sale**                   | 15%        | 0 months    | 6 months  |
 
