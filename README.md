@@ -14,9 +14,9 @@
   - Reward after 8 years: `12.5 WORM`
   - Reward after 4 * N years: `50 * (0.5^N)`
 
-Premine percentage: `27.865128907827067%`
-Premine: `5,851,677.070643683978082748 WORM` (Team/Foundation/Investors/Community)
-Supply after N blocks: `5,851,677.070643683978082748 + 50 * (1 - (0.9999966993045875 ^ N)) / (1 - 0.9999966993045875)`
+- Premine percentage: `27.865128907827067%`
+- Premine: `5,851,677.070643683978082748 WORM` (Team/Foundation/Investors/Community)
+- Supply after N blocks: `5,851,677.070643683978082748 + 50 * (1 - (0.9999966993045875 ^ N)) / (1 - 0.9999966993045875)`
 
 Structure of the premine:
 
