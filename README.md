@@ -20,15 +20,15 @@
 
 Structure of the premine:
 
-| Category                | % of Premine | TGE  | Cliff (Months) | Vesting (Months) | Total |
-| ----------------------- | ------------ | ---- | -------------- | ---------------- | ----- |
-| LP (Liquidity Pool) (*) | 10%          | 100% | 0              | 0                | 
-| Private Investors       | 10%          | 0%   | 6              | 36               |
-| Core Team               | 30%          | 0%   | 6              | 36               |
-| Foundation Treasury     | 15%          | 5%   | 3              | 36               |
-| Donors                  | 20%          | 5%   | 3              | 18               |
-| Testnet Participants    | 10%          | 5%   | 3              | 12               |
-| Community Members       | 5%           | 0%   | 0              | 12               |
+| Category                | % of Premine | TGE  | Cliff (Months) | Vesting (Months) | Total            |
+| ----------------------- | ------------ | ---- | -------------- | ---------------- | ---------------- |
+| LP (Liquidity Pool) (*) | 10%          | 100% | 0              | 0                | ~585167.70 WORM  |
+| Private Investors       | 10%          | 0%   | 6              | 36               | ~585167.70 WORM  |
+| Core Team               | 30%          | 0%   | 6              | 36               | ~1755503.12 WORM |
+| Foundation Treasury     | 15%          | 5%   | 3              | 36               | ~877751.56 WORM  |
+| Donors                  | 20%          | 5%   | 3              | 18               | ~1170335.41 WORM |
+| Testnet Participants    | 10%          | 5%   | 3              | 12               | ~585167.70 WORM  |
+| Community Members       | 5%           | 0%   | 0              | 12               | ~292583.85 WORM  |
 
 ****LP tokens are permanently locked!***
 
