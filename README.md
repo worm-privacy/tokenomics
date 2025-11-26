@@ -20,14 +20,17 @@
 
 Structure of the premine:
 
-| Group                             | Allocation | Cliff       | Vesting   |
-| --------------------------------- | ---------- | ----------- | --------- |
-| **Private investors**             | 15%        | 6 months    | 18 months |
-| **Team / Founders**               | 20%        | 12 months   | 36 months |
-| **Advisors**                      | 5%         | 3 months    | 12 months |
-| **Community / Ecosystem Rewards** | 25%        | 0 months    | 6 months |
-| **Foundation / Treasury**         | 20%        | 6 months    | 36 months |
-| **Public Sale**                   | 15%        | 0 months    | 6 months  |
+| Category                | % of Premine | TGE  | Cliff (Months) | Vesting (Months) |
+| ----------------------- | ------------ | ---- | -------------- | ---------------- |
+| LP (Liquidity Pool) (*) | 10%          | 100% | 0              | 0                |
+| Private Investors       | 10%          | 0%   | 6              | 36               |
+| Core Team               | 30%          | 0%   | 6              | 36               |
+| Foundation Treasury     | 15%          | 5%   | 3              | 36               |
+| Donors                  | 20%          | 5%   | 3              | 18               |
+| Testnet Participants    | 10%          | 5%   | 3              | 12               |
+| Community Members       | 5%           | 0%   | 0              | 12               |
+
+****LP tokens are permanently locked!***
 
 The remaining `72.13487109217293%` of the supply is mine-able through Private-Proof-of-Burn mining.
 
