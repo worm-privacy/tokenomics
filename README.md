@@ -20,16 +20,17 @@
 
 Structure of the premine:
 
-| Category                | % of Premine | TGE  | Cliff (Months) | Vesting (Months) | Total              |
-| ----------------------- | ------------ | ---- | -------------- | ---------------- | ------------------ |
-| LP (Liquidity Pool) (*) | 10%          | 100% | 0              | 0                | ~585,167.70 WORM   |
-| Dutch Auction (*)       | 10%          | 100% | 0              | 0                | ~585,167.70 WORM   |
-| Private Investors       | 10%          | 0%   | 6              | 36               | ~585,167.70 WORM   |
-| Core Team               | 30%          | 0%   | 6              | 36               | ~1,755,503.12 WORM |
-| Foundation Treasury     | 15%          | 5%   | 3              | 36               | ~877,751.56 WORM   |
-| Donors                  | 15%          | 5%   | 3              | 18               | ~877,751.56 WORM   |
-| Testnet Participants    | 7.5%         | 5%   | 3              | 12               | ~438,875.78 WORM   |
-| Community Activities    | 2.5%         | 0%   | 0              | 12               | ~146,291.92 WORM   |
+| Category                | % of Premine | % of Total Supply | TGE  | Cliff (Months) | Vesting (Months) | Total               |
+| ----------------------- | ------------ | ----------------- | ---- | -------------- | ---------------- | ------------------- |
+| Mine-able               | N/A          | ~72.13%           | N/A  | N/A            | N/A              | ~15,148,322.92 WORM |
+| LP (Liquidity Pool) (*) | 10%          | ~2.78%            | 100% | 0              | 0                | ~585,167.70 WORM    |
+| Dutch Auction (*)       | 10%          | ~2.78%            | 100% | 0              | 0                | ~585,167.70 WORM    |
+| Private Investors       | 10%          | ~2.78%            | 0%   | 6              | 36               | ~585,167.70 WORM    |
+| Core Team               | 30%          | ~8.35%            | 0%   | 6              | 36               | ~1,755,503.12 WORM  |
+| Foundation Treasury     | 15%          | ~4.17%            | 5%   | 3              | 36               | ~877,751.56 WORM    |
+| Donors                  | 15%          | ~4.17%            | 5%   | 3              | 18               | ~877,751.56 WORM    |
+| Testnet Participants    | 7.5%         | ~2.08%            | 5%   | 3              | 12               | ~438,875.78 WORM    |
+| Community Activities    | 2.5%         | ~0.69%            | 0%   | 0              | 12               | ~146,291.92 WORM    |
 
 ****LP tokens are permanently locked! All of the tokens sold in the Dutch auction will go to the liquidity pool!***
 
