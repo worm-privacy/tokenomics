@@ -23,14 +23,15 @@ Structure of the premine:
 | Category                | % of Premine | TGE  | Cliff (Months) | Vesting (Months) | Total              |
 | ----------------------- | ------------ | ---- | -------------- | ---------------- | ------------------ |
 | LP (Liquidity Pool) (*) | 10%          | 100% | 0              | 0                | ~585,167.70 WORM   |
+| Dutch Auction (*)       | 10%          | 100% | 0              | 0                | ~585,167.70 WORM   |
 | Private Investors       | 10%          | 0%   | 6              | 36               | ~585,167.70 WORM   |
 | Core Team               | 30%          | 0%   | 6              | 36               | ~1,755,503.12 WORM |
 | Foundation Treasury     | 15%          | 5%   | 3              | 36               | ~877,751.56 WORM   |
-| Donors                  | 20%          | 5%   | 3              | 18               | ~1,170,335.41 WORM |
-| Testnet Participants    | 10%          | 5%   | 3              | 12               | ~585,167.70 WORM   |
-| Community Members       | 5%           | 0%   | 0              | 12               | ~292,583.85 WORM   |
+| Donors                  | 15%          | 5%   | 3              | 18               | ~877,751.56 WORM   |
+| Testnet Participants    | 7.5%         | 5%   | 3              | 12               | ~438,875.78 WORM   |
+| Community Activities    | 2.5%         | 0%   | 0              | 12               | ~146,291.92 WORM   |
 
-****LP tokens are permanently locked!***
+****LP tokens are permanently locked! All of the tokens sold in the Dutch auction will go to the liquidity pool!***
 
 The remaining `72.13487109217293%` of the supply is mine-able through Private-Proof-of-Burn mining.
 
