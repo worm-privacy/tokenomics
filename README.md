@@ -70,8 +70,8 @@ premines = [
     Premine(premine * 10 // 100, 0, 6, 36),  # Private
     Premine(premine * 30 // 100, 0, 6, 36),  # Team
     Premine(premine * 15 // 100, 5, 3, 36),  # Foundation
-    Premine(premine * 15 // 100, 5, 3, 18),  # Donator
-    Premine(premine * 7.5 // 100, 5, 3, 12),  # Testnet
+    Premine(premine * 15 // 100, 5, 4, 18),  # Donator
+    Premine(premine * 7.5 // 100, 5, 2, 12),  # Testnet
     Premine(premine * 2.5 // 100, 0, 0, 12),  # Community
 ]
 
