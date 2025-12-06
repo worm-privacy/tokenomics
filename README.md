@@ -20,16 +20,16 @@
 
 Structure of the premine:
 
-| Category                        | % of Premine | % of Total Supply | TGE               | Cliff (Months) | Vesting (Months) | Total               |
-| ------------------------------- | ------------ | ----------------- | ----------------- | -------------- | ---------------- | ------------------- |
-| Mine-able                       | N/A          | ~72.13%           | N/A               | N/A            | N/A              | ~15,148,322.92 WORM |
-| Uniswap CCA                     | 30%          | ~8.35%            | 100%              | N/A            | N/A              | ~1,755,503.12 WORM  |
-| Core Team                       | 30%          | ~8.35%            | 2.5%              | 6              | 36               | ~1,755,503.12 WORM  |
-| Private Investors               | 10%          | ~2.78%            | 2.5%              | 6              | 36               | ~585,167.70 WORM    |
-| Foundation Treasury             | 15%          | ~4.17%            | 5%                | 3              | 36               | ~877,751.56 WORM    |
-| Donors                          | 9.5%         | ~2.64%            | 20%               | 3              | 18               | ~555,909.32 WORM    |
-| Testnet Participants            | 5%           | ~1.39%            | 50%               | 1              | 6                | ~292,583.85 WORM    |
-| Community Activities / Airdrops | 0.5%         | ~0.13%            | 100%              | N/A            | N/A              | ~29,258.38 WORM     |
+| Category                           | % of Premine | % of Total Supply | TGE               | Cliff (Months) | Vesting (Months) | Total               |
+| ---------------------------------- | ------------ | ----------------- | ----------------- | -------------- | ---------------- | ------------------- |
+| ⛏️ Mine-able                       | N/A          | ~72.13%           | N/A               | N/A            | N/A              | ~15,148,322.92 WORM |
+| 🦄 Uniswap CCA                     | 30%          | ~8.35%            | 100%              | N/A            | N/A              | ~1,755,503.12 WORM  |
+| 👥 Core Team                       | 30%          | ~8.35%            | 2.5%              | 6              | 36               | ~1,755,503.12 WORM  |
+| 👔 Private Investors               | 10%          | ~2.78%            | 2.5%              | 6              | 36               | ~585,167.70 WORM    |
+| 🏢 Foundation Treasury             | 15%          | ~4.17%            | 5%                | 3              | 36               | ~877,751.56 WORM    |
+| 🧃 Donors (Juicebox)               | 9.5%         | ~2.64%            | 20%               | 3              | 18               | ~555,909.32 WORM    |
+| 🧪 Testnet Participants            | 5%           | ~1.39%            | 50%               | 1              | 6                | ~292,583.85 WORM    |
+| 🌧️ Community Activities / Airdrops | 0.5%         | ~0.13%            | 100%              | N/A            | N/A              | ~29,258.38 WORM     |
 
 The remaining `72.13487109217293%` of the supply is mine-able through Private-Proof-of-Burn mining.
 
