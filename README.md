@@ -1,4 +1,4 @@
-# WORM Tokenomics
+# WORM Tokenomics v0.1.0
 
 ⚠️ THIS IS A DRAFT DOCUMENT AND CAN CHANGE ANY TIME! ⚠️
 
