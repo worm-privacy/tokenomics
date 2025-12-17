@@ -24,12 +24,12 @@ Structure of the premine:
 | ---------------------------------- | ----------------- | ------------ | ----------------- | -------------- | ---------------- | ------------------- |
 | ⛏️ Mine-able                       | ~72.13%           | N/A          | N/A               | N/A            | N/A              | ~15,148,322.92 WORM |
 | 🦄 Uniswap CCA                     | ~8.35%            | 30%          | 100%              | N/A            | N/A              | ~1,755,503.12 WORM  |
-| 👥 Core Team                       | ~8.35%            | 29%          | 2.5%              | 6              | 36               | ~1,755,503.12 WORM  |
-| 🗣️ Advisors                        | ~8.35%            | 1%           | 2.5%              | 6              | 36               | ~1,755,503.12 WORM  |
+| 👥 Core Team                       | ~8.08%            | 29%          | 2.5%              | 6              | 36               | ~1,696,986.35 WORM  |
+| 🗣️ Advisors                        | ~0.27%            | 1%           | 2.5%              | 6              | 36               | ~58,516.77 WORM  |
 | 👔 Private Investors               | ~2.78%            | 10%          | 2.5%              | 6              | 36               | ~585,167.70 WORM    |
 | 🏢 Foundation Treasury             | ~4.17%            | 15%          | 5%                | 3              | 36               | ~877,751.56 WORM    |
-| 🧃 Donors (Juicebox)               | ~2.64%            | 9%           | 20%               | 3              | 18               | ~555,909.32 WORM    |
-| 🧪 Testnet Participants            | ~1.39%            | 5.5%         | 50%               | 1              | 6                | ~292,583.85 WORM    |
+| 🧃 Donors (Juicebox)               | ~2.50%            | 9%           | 20%               | 3              | 18               | ~526,650.93 WORM    |
+| 🧪 Testnet Participants            | ~1.53%            | 5.5%         | 50%               | 1              | 6                | ~321,842.23 WORM    |
 | 🌧️ Community Activities / Airdrops | ~0.13%            | 0.5%         | 100%              | N/A            | N/A              | ~29,258.38 WORM     |
 
 The remaining `72.13487109217293%` of the supply is mine-able through Private-Proof-of-Burn mining.
