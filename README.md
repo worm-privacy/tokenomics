@@ -1,6 +1,4 @@
-# WORM Tokenomics v0.1.0
-
-⚠️ THIS IS A DRAFT DOCUMENT AND CAN CHANGE ANY TIME! ⚠️
+# WORM Tokenomics v1.0
 
 ***Reminds of Bitcoin***
 
