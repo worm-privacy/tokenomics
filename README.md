@@ -24,11 +24,12 @@ Structure of the premine:
 | ---------------------------------- | ----------------- | ------------ | ----------------- | -------------- | ---------------- | ------------------- |
 | ⛏️ Mine-able                       | ~72.13%           | N/A          | N/A               | N/A            | N/A              | ~15,148,322.92 WORM |
 | 🦄 Uniswap CCA                     | ~8.35%            | 30%          | 100%              | N/A            | N/A              | ~1,755,503.12 WORM  |
-| 👥 Core Team                       | ~8.35%            | 30%          | 2.5%              | 6              | 36               | ~1,755,503.12 WORM  |
+| 👥 Core Team                       | ~8.35%            | 29%          | 2.5%              | 6              | 36               | ~1,755,503.12 WORM  |
+| 🗣️ Advisors                        | ~8.35%            | 1%           | 2.5%              | 6              | 36               | ~1,755,503.12 WORM  |
 | 👔 Private Investors               | ~2.78%            | 10%          | 2.5%              | 6              | 36               | ~585,167.70 WORM    |
 | 🏢 Foundation Treasury             | ~4.17%            | 15%          | 5%                | 3              | 36               | ~877,751.56 WORM    |
-| 🧃 Donors (Juicebox)               | ~2.64%            | 9.5%         | 20%               | 3              | 18               | ~555,909.32 WORM    |
-| 🧪 Testnet Participants            | ~1.39%            | 5%           | 50%               | 1              | 6                | ~292,583.85 WORM    |
+| 🧃 Donors (Juicebox)               | ~2.64%            | 9%           | 20%               | 3              | 18               | ~555,909.32 WORM    |
+| 🧪 Testnet Participants            | ~1.39%            | 5.5%         | 50%               | 1              | 6                | ~292,583.85 WORM    |
 | 🌧️ Community Activities / Airdrops | ~0.13%            | 0.5%         | 100%              | N/A            | N/A              | ~29,258.38 WORM     |
 
 The remaining `72.13487109217293%` of the supply is mine-able through Private-Proof-of-Burn mining.
@@ -64,11 +65,12 @@ class Premine:
 
 premines = [
     Premine(premine * 30 // 100, 100, 0, 0),  # CCA
-    Premine(premine * 30 // 100, 2.5, 6, 36),  # Team
+    Premine(premine * 29 // 100, 2.5, 6, 36),  # Team
+    Premine(premine * 1 // 100, 2.5, 6, 36),  # Advisors
     Premine(premine * 10 // 100, 2.5, 6, 36),  # Private
     Premine(premine * 15 // 100, 5, 3, 36),  # Foundation
-    Premine(premine * 9.5 // 100, 20, 3, 18),  # Donator
-    Premine(premine * 5 // 100, 50, 1, 6),  # Testnet
+    Premine(premine * 9 // 100, 20, 3, 18),  # Donator
+    Premine(premine * 5.5 // 100, 50, 1, 6),  # Testnet
     Premine(premine * 0.5 // 100, 100, 0, 0),  # Community
 ]
 
