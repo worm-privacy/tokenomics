@@ -1,4 +1,4 @@
-# WORM Tokenomics v1.0
+# WORM Tokenomics v1.1
 
 ***Reminds of Bitcoin***
 
@@ -21,14 +21,15 @@ Structure of the premine:
 | Category                           | % of Total Supply | % of Premine | TGE               | Cliff (Months) | Vesting (Months) | Total               |
 | ---------------------------------- | ----------------- | ------------ | ----------------- | -------------- | ---------------- | ------------------- |
 | ⛏️ Mine-able                       | ~72.13%           | N/A          | N/A               | N/A            | N/A              | ~15,148,322.92 WORM |
-| 🦄 Uniswap CCA                     | ~8.35%            | 30%          | 100%              | N/A            | N/A              | ~1,755,503.12 WORM  |
-| 👥 Core Team                       | ~8.08%            | 29%          | 2.5%              | 6              | 36               | ~1,696,986.35 WORM  |
-| 🗣️ Advisors                        | ~0.27%            | 1%           | 2.5%              | 6              | 36               | ~58,516.77 WORM  |
-| 👔 Private Investors               | ~2.78%            | 10%          | 2.5%              | 6              | 36               | ~585,167.70 WORM    |
-| 🏢 Foundation Treasury             | ~4.17%            | 15%          | 5%                | 3              | 36               | ~877,751.56 WORM    |
+| 🐫 LP / ICO                        | ~11.14%           | 40%          | 100%              | N/A            | N/A              | ~2,340,670.82 WORM  |
+| 👥 Core Team                       | ~6.68%            | 24%          | 0%                | 6              | 36               | ~1,404,402.49 WORM  |
+| 🗣️ Advisors                        | ~0.27%            | 1%           | 0%                | 6              | 36               | ~58,516.77 WORM     |
+| 👔 Private Investors               | ~2.22%            | 8%           | 0%                | 6              | 36               | ~468,134.16 WORM    |
+| 🏢 Foundation Treasury             | ~3.34%            | 12%          | 5%                | 3              | 36               | ~702,201.24 WORM    |
 | 🧃 Donors (Juicebox)               | ~2.50%            | 9%           | 20%               | 3              | 18               | ~526,650.93 WORM    |
 | 🧪 Testnet Participants            | ~1.53%            | 5.5%         | 50%               | 1              | 6                | ~321,842.23 WORM    |
 | 🌧️ Community Activities / Airdrops | ~0.13%            | 0.5%         | 100%              | N/A            | N/A              | ~29,258.38 WORM     |
+
 
 The remaining `72.13487109217293%` of the supply is mine-able through Private-Proof-of-Burn mining.
 
